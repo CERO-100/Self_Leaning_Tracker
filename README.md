@@ -179,15 +179,3 @@ A Django-based web application for tracking student progress...
 >>>>>>> origin/main
 
 
-# Student Progress Tracker
-
-A Django-based web application for tracking student progress, task management, skill development, and student operations.
-
-## Features
-- User authentication and profiles
-- Task and schedule management
-- Skill tracking and progress monitoring
-- Gamification with badges and leaderboards
-- Responsive UI with Bootstrap
-
-(rest of your content...)
