@@ -168,3 +168,26 @@ Expands Skill & Progress Tracking into Add Skill, Select/Update Skills, Log Prog
 
 > **Tip:** Use these diagrams to communicate the structure and data movement of your Django system with other developers, stakeholders, or for documentation and presentations.
 
+<<<<<<< HEAD
+# Student Progress Tracker
+
+A Django-based web application for tracking student progress...
+(your local content)
+=======
+# Self_Leaning_Tracker
+(GitHub content - possibly just this line)
+>>>>>>> origin/main
+
+
+# Student Progress Tracker
+
+A Django-based web application for tracking student progress, task management, skill development, and student operations.
+
+## Features
+- User authentication and profiles
+- Task and schedule management
+- Skill tracking and progress monitoring
+- Gamification with badges and leaderboards
+- Responsive UI with Bootstrap
+
+(rest of your content...)
